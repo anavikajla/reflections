@@ -14,3 +14,7 @@ Q. What are some situations when branches would be helpful in keeping your histo
 
 when you wanna experiment with a new idea but don’t want to make it an official change. 
 by not mixing the official with the experiments.
+
+Q. How do the diagrams help you visualize the branch structure?
+
+by creating linear paths with arrows which make the path and direction clear.
