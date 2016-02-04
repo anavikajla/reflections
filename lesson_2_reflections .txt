@@ -24,5 +24,14 @@ Q. What is the result of merging two branches together? Why do we represent it i
 That one gets merged into the other along with :
 -all it’s commits
 -all it’s changes
-
 Cuz one basically gets incorporated into the other and becomes one.
+
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros:
+-it saves time
+-is smart
+-prompts you in the case of ambiguity
+
+cons:
+-could lead to faulty merges, destroying source code entirely. oops!
