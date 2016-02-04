@@ -5,4 +5,12 @@ It creates a new repository including all the files in the directory you’re cu
 Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it’s there for making commits, so an entirely diff concept. What a shitty q.
-It offers value in the sense that it 
+
+Q. How can you use the staging area to make sure you have one commit per logical change?
+
+By using the git diff —staged and git diff commands to check if the changes being made are really the ones that you want to commit and if they are logical enough to be made in the first place.
+
+Q. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you wanna experiment with a new idea but don’t want to make it an official change. 
+by not mixing the official with the experiments.
