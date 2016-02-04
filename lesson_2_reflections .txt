@@ -18,3 +18,11 @@ by not mixing the official with the experiments.
 Q. How do the diagrams help you visualize the branch structure?
 
 by creating linear paths with arrows which make the path and direction clear.
+
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+That one gets merged into the other along with :
+-all it’s commits
+-all it’s changes
+
+Cuz one basically gets incorporated into the other and becomes one.
