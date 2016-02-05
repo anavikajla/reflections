@@ -1,4 +1,9 @@
 Q. When would you want to use a remote repository rather than keeping all your work local?
 When you want to push your files to github, to keep it on the cloud (like Dropbox).
 
+Q. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+So that you can choose when to be up to date.
+
+
+
 
